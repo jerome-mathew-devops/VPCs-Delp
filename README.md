@@ -27,8 +27,11 @@
    **NAT Gateway/Instance**: Allows instances in a private subnet to access the internet while preventing
    inbound traffic from the internet. 
 
+
+
    **Below are some Advantages of using VPCs**
    
+
 
    **Isolation and Security**: VPCs provide a dedicated environment, isolating resources from other users
    and enhancing security through customizable security groups and network access control lists.
